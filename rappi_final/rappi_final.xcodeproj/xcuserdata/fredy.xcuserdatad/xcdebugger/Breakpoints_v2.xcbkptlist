@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "32582663-3AE2-4625-A0D3-F4A127D0FFC9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C427CD3D-BA77-4B36-8889-C46936335455"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "rappi_finalTests/ValidacionServiciosTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "ValidacionServiciosTest"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C427CD3D-BA77-4B36-8889-C46936335455 - c6ff38415270ca0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rappi_finalTests.ValidacionServiciosTest.testtraerpelculas() -&gt; ()"
+                  moduleName = "rappi_finalTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fredy/Desktop/proyecto/proyecto/rappi_final/rappi_finalTests/ValidacionServiciosTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "511">
+               </Location>
+               <Location
+                  uuid = "C427CD3D-BA77-4B36-8889-C46936335455 - 7d7b305f9a138020"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;rappi_final.PeliculaResponse, rappi_final.PeliculaError&gt;) -&gt; () in implicit closure #1 () throws -&gt; () in rappi_finalTests.ValidacionServiciosTest.testtraerpelculas() -&gt; ()"
+                  moduleName = "rappi_finalTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fredy/Desktop/proyecto/proyecto/rappi_final/rappi_finalTests/ValidacionServiciosTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "311">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B2D3A59-F115-49BF-8FA4-CBEA0DB06A8D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "rappi_final/ViewControllers/BuscarPeliculaView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2B2D3A59-F115-49BF-8FA4-CBEA0DB06A8D - 269b6f5cdc364b1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.listRowInsets(Swift.Optional&lt;SwiftUI.EdgeInsets&gt;) -&gt; some&gt;&gt;.0, rappi_final.LoadingView, Swift.Optional&lt;SwiftUI.ForEach&lt;Swift.Array&lt;rappi_final.Pelicula&gt;, Swift.Int, SwiftUI.NavigationLink&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt;, rappi_final.PeliculaDetalleView&gt;&gt;&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in rappi_final.BuscarPeliculaView.body.getter : some"
+                  moduleName = "rappi_final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fredy/Desktop/proyecto/proyecto/rappi_final/rappi_final/ViewControllers/BuscarPeliculaView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "960">
+               </Location>
+               <Location
+                  uuid = "2B2D3A59-F115-49BF-8FA4-CBEA0DB06A8D - 24384af671cdf6a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.listRowInsets(Swift.Optional&lt;SwiftUI.EdgeInsets&gt;) -&gt; some&gt;&gt;.0, rappi_final.LoadingView, Swift.Optional&lt;SwiftUI.ForEach&lt;Swift.Array&lt;rappi_final.Pelicula&gt;, Swift.Int, SwiftUI.NavigationLink&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt;, rappi_final.PeliculaDetalleView&gt;&gt;&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in rappi_final.BuscarPeliculaView.body.getter : some"
+                  moduleName = "rappi_final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fredy/Desktop/proyecto/proyecto/rappi_final/rappi_final/ViewControllers/BuscarPeliculaView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "33">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2143304-F032-44BE-9AF4-D0550572F006"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "rappi_finalTests/ValidacionRed.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ValidacionRed"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
